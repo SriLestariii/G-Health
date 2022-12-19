@@ -26,19 +26,19 @@ Route::get('/services', function () {
 });
 
 Route::get('/talking', function () {
-    return view('talking');
+    return view('services.talking');
 });
 
 Route::get('/audio', function () {
-    return view('audio');
+    return view('services.audio');
 });
 
-Route::get('/spiritual', function () {
-    return view('spiritual');
+Route::get('/yoga', function () {
+    return view('services.yoga');
 });
 
 Route::get('/consult', function () {
-    return view('consult');
+    return view('services.consult');
 });
 
 Route::get('/contact', function () {
