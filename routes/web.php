@@ -17,6 +17,34 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/services', function () {
+    return view('service');
+});
+
+Route::get('/talking', function () {
+    return view('talking');
+});
+
+Route::get('/audio', function () {
+    return view('audio');
+});
+
+Route::get('/spiritual', function () {
+    return view('spiritual');
+});
+
+Route::get('/consult', function () {
+    return view('consult');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
 Route::get('/login', function () {
     return view('login');
 });

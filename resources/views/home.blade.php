@@ -23,33 +23,21 @@
             <h3 class="fs-2">Audio Theraphy</h3>
             <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence
                 and probably just keep going until we run out of words.</p>
-            <a href="#" class="icon-link d-inline-flex align-items-center">
-                Call to action
-            </a>
         </div>
         <div class="feature col">
             <h3 class="fs-2">Talking Theraphy</h3>
             <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence
                 and probably just keep going until we run out of words.</p>
-            <a href="#" class="icon-link d-inline-flex align-items-center">
-                Call to action
-            </a>
         </div>
         <div class="feature col">
             <h3 class="fs-2">Spritual Theraphy</h3>
             <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence
                 and probably just keep going until we run out of words.</p>
-            <a href="#" class="icon-link d-inline-flex align-items-center">
-                Call to action
-            </a>
         </div>
         <div class="feature col">
             <h3 class="fs-2">Consult A Doctor</h3>
             <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence
                 and probably just keep going until we run out of words.</p>
-            <a href="#" class="icon-link d-inline-flex align-items-center">
-                Call to action
-            </a>
         </div>
     </div>
 </div>
