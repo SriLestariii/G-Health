@@ -23,8 +23,8 @@
         <div class="col-md-6 p-4 p-sm-5">
             <small class="text-uppercase" style="color: #57555a;">About</small>
             <h1 class="h2 mb-4" style="font-weight: 600;">G-Health <span style="color: #57555a;">Here!</span></h1>
-            <p class= style="line-height: 2; color: black;">Ialah platform khusus yang disediakan bagi masyarakat luas yang ingin
-                menenangkan diri dan pikiran. G-Health sendiri memeberikan beberapa pelayanan yang dapat digunakan oleh para pengguna.
+            <p class= style="line-height: 2; color: black;">Platform khusus bagi masyarakat luas untuk
+                menenangkan diri dan pikiran melalui beberapa pelayanan yang disediakan.
             </p>
         </div>
     </div>
@@ -98,18 +98,16 @@
                             <div class="row p-4">
                                 <div class="t-card">
                                     <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                    <p class="lh-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam,
-                                        quae consectetur! Fugit repellat sit placeat rerum animi, facilis exercitationem
-                                        sunt aliquid magni deserunt eum harum?.</p>
+                                    <p class="lh-lg">Platform ini sangat membantu saya yang ingin mencari referensi musik dan yoga sebagai terapi ketenangan pikiran.</p>
                                     <i class="fa fa-quote-right" aria-hidden="true"></i><br>
                                 </div>
                                 <div class="row">
                                     <div class="col-sm-2 pt-3">
-                                        <img src="/img/photo1.jpeg" class="rounded-circle img-responsive img-fluid">
+                                        <img src="/img/ty.jpg" class="rounded-circle img-responsive img-fluid">
                                     </div>
                                     <div class="col-sm-10">
                                         <div class="arrow-down d-none d-lg-block"></div>
-                                        <h4><strong>Nopals Purnomo</strong></h4>
+                                        <h4><strong>Maman xpander</strong></h4>
                                         <p class="testimonial_subtitle"><span>Football Manager</span><br>
                                             <span>Manchester United</span>
                                         </p>
@@ -122,22 +120,20 @@
                                 <div class="t-card">
                                     <i class="fa fa-quote-left" aria-hidden="true"></i>
                                     <p class="lh-lg">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, aliquid
-                                        cum atque, eius velit dolore repellendus libero recusandae accusantium ut
-                                        blanditiis sunt modi eveniet asperiores.
+                                        Gokil bat dah ni platform, eaaakkkk.
                                     </p>
                                     <i class="fa fa-quote-right" aria-hidden="true"></i><br>
                                 </div>
                                 <div class="row">
                                     <div class="col-sm-2 pt-4">
-                                        <img src="/img/photo2.jpg" class="rounded-circle img-responsive img-fluid">
+                                        <img src="/img/jk.jpg" class="rounded-circle img-responsive img-fluid">
                                     </div>
                                     <div class="col-sm-10">
                                         <div class="arrow-down d-none d-lg-block"></div>
-                                        <h4><strong>Esther Zawadi</strong></h4>
+                                        <h4><strong>Ganta Raharja</strong></h4>
                                         <p class="testimonial_subtitle"><span>
-                                                digital strategist</span><br>
-                                            <span>Vaxa digital</span>
+                                                Penyiar Radio</span><br>
+                                            <span>Radio 93FM Bandung</span>
                                         </p>
                                     </div>
                                 </div>
@@ -147,20 +143,18 @@
                             <div class="row p-4">
                                 <div class="t-card">
                                     <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                    <p class="lh-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-                                        quibusdam libero optio pariatur veniam, expedita ipsa voluptatibus, cum quis,
-                                        deserunt qui dolorem porro facere laudantium.</p>
+                                    <p class="lh-lg">sehhh.. boljug nih.</p>
                                     <i class="fa fa-quote-right" aria-hidden="true"></i><br>
                                 </div>
                                 <div class="row text-lg-start">
                                     <div class="col-sm-2 pt-4 align-items-center">
-                                        <img src="/img/photo3.jpg" class="rounded-circle img-responsive img-fluid">
+                                        <img src="/img/mr.jpg" class="rounded-circle img-responsive img-fluid">
                                     </div>
                                     <div class="col-sm-10">
                                         <div class="arrow-down d-none d-md-block"></div>
-                                        <h4><strong>Patrick muriungi</strong></h4>
+                                        <h4><strong>Gatot Dinata</strong></h4>
                                         <p class="testimonial_subtitle"><span>Web Technologist</span><br>
-                                            <span>Vaxa digital</span>
+                                            <span>Poemeh</span>
                                         </p>
                                     </div>
                                 </div>
