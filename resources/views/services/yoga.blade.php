@@ -62,7 +62,7 @@
         <div class="filter"></div>
         <div class="text col-lg-5 container-glass">
             <!-- <<<<<<< HEAD -->
-            <h1>Yoga Enhances Your Life</h1>
+            <h1>Yoga Rileksasikan Tubuhmu</h1>
             <p>
                 latihan pikiran dan tubuh yang menggabungkan berbagai gaya postur fisik,
                 teknik pernapasan, dan meditasi atau relaksasi, Yoga adalah praktik kuno yang mungkin berasal dari India.
@@ -84,45 +84,45 @@
     <section class="benefits" id="benefits">
 
         <div class="col-md-12 text-center">
-            <h1><strong>Benefits of Yoga</strong></h1>
+            <h1><strong>Manfaat Yoga</strong></h1>
         </div>
         <div class="bfit">
             <ul class="btext">
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga benefits in <strong>weight loss</strong></h3>
+                    <h3>Manfaat yoga dalam <strong>menurunkan berat badan</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga is one of the best solutions for <strong>stress relief</strong></h3>
+                    <h3>Yoga salah satu pilihan terbaik untuk <strong>menghilangkan stres</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga helps for <strong>inner peace</strong></h3>
+                    <h3>Yoga membantu untuk <strong>kebahagiaan dari dalam</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga Improves <strong>Immunity</strong></h3>
+                    <h3>Yoga dapat meningkatkan <strong>imunitas</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Practice of Yoga Offers <strong>Awareness</strong></h3>
+                    <h3>Praktik yoga dapat mengurangi <strong>kecemasan</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga improves <strong>relationships</strong></h3>
+                    <h3>Yoga dapat meningkatan <strong>kedamaian diri</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga Increases <strong>Energy</strong></h3>
+                    <h3>Yoga dapat meningkatkan <strong>Energi</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga Gives you Better <strong>Flexibility and Posture</strong></h3>
+                    <h3>Yoga memberikan kamu <strong>keleluasaan</strong></h3>
                 </li>
                 <li class="yoga-text">
                     <h3>• </h3>
-                    <h3>Yoga helps in improving <strong>intuition</strong></h3>
+                    <h3>Yoga dapat membantu kamu untuk meningkatkan <strong>intuisi</strong></h3>
                 </li>
             </ul>
 
@@ -190,16 +190,14 @@
         </div>
     </section>
     <!-- footer start -->
-    <footer>
-        <div class="footer-container">
-            <!--logo and info column-->
-            <div class="col">
-                <!--logo insert-->
-                <img src="/img/logo.png" alt="logo" class="footlogo" />
-                <div class="footercontent">
-                </div>
+    <div class="container">
+        <footer class="d-flex flex-wrap justify-content-between align-items-center border-top">
+            <div class="col-md-4 d-flex align-items-center">
+                <span class="mb-3 mb-md-0 text-muted">&copy; GHealth 2022</span>
             </div>
-    </footer>
+        </footer>
+    </div>
+
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
         AOS.init();

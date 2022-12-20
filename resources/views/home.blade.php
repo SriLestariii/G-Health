@@ -18,15 +18,14 @@
 <div class="container my-5">
     <div class="row">
         <div class="col-md-6 p-0 text-center">
-            <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                class="w-100" alt="">
+            <img src="/img/aabot.jpeg" style="width: 400px;">
         </div>
         <div class="col-md-6 p-4 p-sm-5">
-            <small class="text-uppercase" style="color: #9B5DE5;">About G-Health</small>
-            <h1 class="h2 mb-4" style="font-weight: 600;">Your Headline <span style="color: #9B5DE5;">Here!</span></h1>
-            <p class="text-secondary" style="line-height: 2;">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Suscipit repellat iure laboriosam cum voluptatum, nam minima deserunt aut? Distinctio voluptatibus dolor
-                quaerat quo omnis illo sequi at velit, odit quod!</p>
+            <small class="text-uppercase" style="color: #57555a;">About</small>
+            <h1 class="h2 mb-4" style="font-weight: 600;">G-Health <span style="color: #57555a;">Here!</span></h1>
+            <p class= style="line-height: 2; color: black;">Ialah platform khusus yang disediakan bagi masyarakat luas yang ingin
+                menenangkan diri dan pikiran. G-Health sendiri memeberikan beberapa pelayanan yang dapat digunakan oleh para pengguna.
+            </p>
         </div>
     </div>
 </div>
