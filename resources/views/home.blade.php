@@ -22,7 +22,7 @@
                 class="w-100" alt="">
         </div>
         <div class="col-md-6 p-4 p-sm-5">
-            <small class="text-uppercase" style="color: #9B5DE5;">About us</small>
+            <small class="text-uppercase" style="color: #9B5DE5;">About G-Health</small>
             <h1 class="h2 mb-4" style="font-weight: 600;">Your Headline <span style="color: #9B5DE5;">Here!</span></h1>
             <p class="text-secondary" style="line-height: 2;">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Suscipit repellat iure laboriosam cum voluptatum, nam minima deserunt aut? Distinctio voluptatibus dolor
