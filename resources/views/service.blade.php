@@ -34,7 +34,7 @@
 
         .responsive {
             color: whitesmoke;
-            width: 30%;
+            width: 40%;
             border: 1px solid rgba(245, 245, 245, 0.146);
             border-radius: 1.5rem;
             text-align: center;

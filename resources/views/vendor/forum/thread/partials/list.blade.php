@@ -26,7 +26,7 @@
                 <span class="badge rounded-pill bg-danger">{{ trans('forum::general.deleted') }}</span>
             @endif
             <span class="badge rounded-pill bg-primary" @if (isset($category))style="background: {{ $category->color }};"@endif>
-                {{ trans('forum::general.replies') }}: 
+                {{ trans('forum::general.replies') }}:
                 {{ $thread->reply_count }}
             </span>
         </div>

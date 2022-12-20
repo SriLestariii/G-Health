@@ -22,7 +22,7 @@
         </div>
         <div class="col-md-6 p-4 p-sm-5">
             <small class="text-uppercase" style="color: #57555a;">About</small>
-            <h1 class="h2 mb-4" style="font-weight: 600;">G-Health <span style="color: #57555a;">Here!</span></h1>
+            <h1 class="h2 mb-4" style="font-weight: 700;">G-Health <span style="color: #57555a;">Here!</span></h1>
             <p class= style="line-height: 2; color: black;">Platform khusus bagi masyarakat luas untuk
                 menenangkan diri dan pikiran melalui beberapa pelayanan yang disediakan.
             </p>
