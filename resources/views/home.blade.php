@@ -18,7 +18,7 @@
 <div class="container my-5">
     <div class="row">
         <div class="col-md-6 p-0 text-center">
-            <img src="/img/aabot.jpeg" style="width: 400px;">
+            <img src="/img/aabot.jpeg" style="width: 390px;">
         </div>
         <div class="col-md-6 p-4 p-sm-5">
             <small class="text-uppercase" style="color: #57555a;">About</small>
