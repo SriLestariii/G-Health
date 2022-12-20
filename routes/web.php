@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WelcomeController;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,20 +27,12 @@ Route::get('/services', function () {
     return view('service');
 });
 
-Route::get('/talking', function () {
-    return view('services.talking');
-});
-
 Route::get('/audio', function () {
     return view('services.audio');
 });
 
 Route::get('/yoga', function () {
     return view('services.yoga');
-});
-
-Route::get('/consult', function () {
-    return view('services.consult');
 });
 
 Route::get('/contact', function () {

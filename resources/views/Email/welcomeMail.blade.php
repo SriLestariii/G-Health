@@ -1,12 +1,18 @@
-@component('mail::message')
-{{ $mailInfo['title'] }}
+@extends('layouts.main')
 
-Congratulations!
+@section('content')
 
-@component('mail::button', ['url' => $mailInfo['url']])
-Cheers!
-@endcomponent
+    @component('mail::message')
+        {{ $mailInfo['title'] }}
 
-Thanks,<br>
-{{ config('app.name') }}
-@endcomponent
+        Congratulations!
+
+        @component('mail::button', ['url' => $mailInfo['url']])
+            Cheers!
+        @endcomponent
+
+        Thanks,<br>
+        {{ config('app.name') }}
+    @endcomponent
+
+@endsection
