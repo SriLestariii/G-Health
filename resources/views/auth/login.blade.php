@@ -60,7 +60,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <a class="btn btn-lg btn-google btn-block text-uppercase btn-outline"
-                                            href="#"><img src="/img/google.svg"></a>
+                                            href="{{ route('google-auth') }}"><img src="/img/google.svg"></a>
 
                                     </div>
                                 </div>

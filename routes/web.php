@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\GoogleAuthController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WelcomeController;
 use Illuminate\Support\Facades\Auth;
@@ -52,3 +53,6 @@ Route::get('/mail-send', [WelcomeController::class, 'mailSend']);
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('auth/google', [GoogleAuthController::class, 'redirect'])->name('google-auth');
+Route::get('auth/google/callback/', [GoogleAuthController::class, 'callbackGoogle']);
