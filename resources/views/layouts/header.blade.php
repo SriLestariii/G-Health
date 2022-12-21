@@ -49,7 +49,7 @@
                         <li class="nav-item"><a class="nav-link" target="_blank" href="{{ url('/forum') }}">Forum</a>
                         </li>
                         <li class="nav-item"><a class="nav-link" target="_blank"
-                                href="{{ url('/contact') }}">Contact</a></li>
+                                href="{{ url('/contact-form') }}">Contact</a></li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->

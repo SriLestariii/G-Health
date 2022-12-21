@@ -36,9 +36,8 @@ Route::get('/yoga', function () {
     return view('services.yoga');
 });
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/contact-form', [App\Http\Controllers\ContactController::class, 'contactForm'])->name('contact-form');
+Route::post('/contact-form', [App\Http\Controllers\ContactController::class, 'storeContactForm'])->name('contact-form.store');
 
 Route::get('/login', function () {
     return view('login');
@@ -56,3 +55,5 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::get('auth/google', [GoogleAuthController::class, 'redirect'])->name('google-auth');
 Route::get('auth/google/callback/', [GoogleAuthController::class, 'callbackGoogle']);
+
+
