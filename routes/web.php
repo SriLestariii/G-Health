@@ -20,20 +20,18 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/about', function () {
-    return view('about');
-});
+Route::middleware(['auth'])->group(function () {
+    Route::get('/services', function () {
+        return view('service');
+    });
 
-Route::get('/services', function () {
-    return view('service');
-});
+    Route::get('/audio', function () {
+        return view('services.audio');
+    });
 
-Route::get('/audio', function () {
-    return view('services.audio');
-});
-
-Route::get('/yoga', function () {
-    return view('services.yoga');
+    Route::get('/yoga', function () {
+        return view('services.yoga');
+    });
 });
 
 Route::get('/contact-form', [App\Http\Controllers\ContactController::class, 'contactForm'])->name('contact-form');
@@ -47,13 +45,9 @@ Route::get('/register', function () {
     return view('register');
 });
 
-Route::get('/mail-send', [WelcomeController::class, 'mailSend']);
-
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::get('auth/google', [GoogleAuthController::class, 'redirect'])->name('google-auth');
 Route::get('auth/google/callback/', [GoogleAuthController::class, 'callbackGoogle']);
-
-
