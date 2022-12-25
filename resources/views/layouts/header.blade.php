@@ -46,8 +46,10 @@
                         <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">Home</a></li>
                         <li class="nav-item"><a class="nav-link" target="_blank"
                                 href="{{ url('/services') }}">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" target="_blank" href="{{ url('/forum') }}">Forum</a>
-                        </li>
+                        @guest
+                            <li class="nav-item"><a class="nav-link" target="_blank" href="{{ url('/login') }}">Forum</a></li>
+                        @else <li class="nav-item"><a class="nav-link" target="_blank" href="{{ url('/forum') }}">Forum</a></li>
+                        @endguest
                         <li class="nav-item"><a class="nav-link" target="_blank"
                                 href="{{ url('/contact-form') }}">Contact</a></li>
                     </ul>

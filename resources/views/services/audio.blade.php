@@ -41,7 +41,7 @@
 
         <div class="nav-links" id="navLinks">
             <ul>
-                <li><a href="../index.html">HOME</a></li>
+                <li><a href="{{ url('/') }}">HOME</a></li>
                 <li><a href="#music" class=".smooth-scroll">MUSIC</a></li>
                 <li><a href="#podcasts" class=".smooth-scroll">PODCASTS </a></li>
             </ul>

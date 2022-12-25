@@ -3,7 +3,9 @@
 use App\Http\Controllers\GoogleAuthController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WelcomeController;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Log;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,6 +34,9 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/yoga', function () {
         return view('services.yoga');
     });
+
+    //sisa get username dari midleware dan dimasukan ke 'test'
+    // Route::view('/forum', 'vendor.forum.category.index', ['username' => 'test']);
 });
 
 Route::get('/contact-form', [App\Http\Controllers\ContactController::class, 'contactForm'])->name('contact-form');
