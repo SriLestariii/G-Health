@@ -27,7 +27,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 </head>
 
-<body class="bg-white">
+<body class="bg-white" style="background-image: url('img/123 (7).png'); 
+min-height: 100vh; background-position: center;
+    background-size: cover;">
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white">
             <div class="container">
