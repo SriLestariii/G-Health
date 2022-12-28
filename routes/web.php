@@ -34,21 +34,10 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/yoga', function () {
         return view('services.yoga');
     });
-
-    //sisa get username dari midleware dan dimasukan ke 'test'
-    // Route::view('/forum', 'vendor.forum.category.index', ['username' => 'test']);
 });
 
 Route::get('/contact-form', [App\Http\Controllers\ContactController::class, 'contactForm'])->name('contact-form');
 Route::post('/contact-form', [App\Http\Controllers\ContactController::class, 'storeContactForm'])->name('contact-form.store');
-
-Route::get('/login', function () {
-    return view('login');
-});
-
-Route::get('/register', function () {
-    return view('register');
-});
 
 Auth::routes();
 

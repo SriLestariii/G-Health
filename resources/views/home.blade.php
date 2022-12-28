@@ -36,8 +36,8 @@
         <h2 class="pb-2 text-center">Services</h2>
         <div class="row g-4 row-cols-1 row-cols-lg-2">
             <div class="feature col">
-                <div
-                    class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3"
+                    style="mix-blend-mode:color-burn;">
                     <img src="/img/spotify.png" alt="" srcset="">
                 </div>
                 <h3 class="fs-2">Audio Theraphy</h3>
@@ -47,8 +47,8 @@
                     kronis, dan insomnia</p>
             </div>
             <div class="feature col">
-                <div
-                    class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3"
+                    style="mix-blend-mode:color-burn;">
                     <img src="/img/discuss.png" alt="" srcset="">
                 </div>
                 <h3 class="fs-2">Forum Discussion</h3>
