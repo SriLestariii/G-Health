@@ -5,6 +5,7 @@
 <small>Platform bagi masyarakat untuk menenangkan diri dan pikiran melalui pelayanan yang disediakan.</small>
 
 <h2>Display</h2>
+![Mockup](https://user-images.githubusercontent.com/113222419/210182138-244bcaac-ed23-47d1-8ee5-ef1f231c5b45.png)
 
 
 <h2>User Stories</h2>
@@ -50,8 +51,6 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  digunakan sebagai database <br>
  
- <small>dan masih banyak lainnya</small>
-
 <h2>Languages</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
