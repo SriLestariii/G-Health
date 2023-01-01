@@ -5,7 +5,6 @@
 <small>Platform bagi masyarakat untuk menenangkan diri dan pikiran melalui pelayanan yang disediakan.</small>
 
 <h2>Display</h2>
-![Mockup](https://user-images.githubusercontent.com/113222419/210182065-47adaa8a-92b2-4d40-9674-c1b115918b23.png)
 
 
 <h2>User Stories</h2>
