@@ -5,11 +5,10 @@
 <small>Platform bagi masyarakat untuk menenangkan diri dan pikiran melalui pelayanan yang disediakan.</small>
 
 <h2>Display</h2>
-![Mockup](https://user-images.githubusercontent.com/113222419/210182138-244bcaac-ed23-47d1-8ee5-ef1f231c5b45.png)
-
+![display](https://user-images.githubusercontent.com/113222419/210182596-8f2fe35e-d870-4e51-b55e-0cee942a99bc.png)
 
 <h2>User Stories</h2>
-<img width="3531" alt="User Flow" src="https://user-images.githubusercontent.com/113222419/210182069-49b790d1-f7c0-45e5-942c-623f17a59428.png">
+<img width="3531" alt="UserFlow" src="https://user-images.githubusercontent.com/113222419/210182343-6af8303f-70df-4844-b94a-cf1587c03bff.png">
 
 <h2>Features</h2>
 
