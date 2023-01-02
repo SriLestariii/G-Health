@@ -16,11 +16,11 @@ class GoogleAuthController extends Controller
 
     public function callbackGoogle()
     {
-        try{
+        try {
             $google_user = Socialite::driver('google')->user();
             $user = User::where('google_id', $google_user->getId())->first();
 
-            if (!$user){
+            if (!$user) {
                 $new_user = User::create([
                     'name' => $google_user->getName(),
                     'email' => $google_user->getEmail(),
@@ -30,13 +30,12 @@ class GoogleAuthController extends Controller
                 Auth::login($new_user);
 
                 return redirect()->intended('home');
-            } else{
+            } else {
                 Auth::login($user);
 
                 return redirect()->intended('home');
             }
-        }catch(\Throwable $th){
-
+        } catch (\Throwable $th) {
         }
     }
 }
