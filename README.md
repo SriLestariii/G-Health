@@ -5,7 +5,7 @@
 <small>Platform bagi masyarakat untuk menenangkan diri dan pikiran melalui pelayanan yang disediakan.</small>
 
 <h2>Display</h2>
-![display](https://user-images.githubusercontent.com/113222419/210182596-8f2fe35e-d870-4e51-b55e-0cee942a99bc.png)
+<img alt="Display" src="https://user-images.githubusercontent.com/113222419/210281858-98874a0a-1343-49dd-a16a-6953176acc97.png">
 
 <h2>User Stories</h2>
 <img width="3531" alt="UserFlow" src="https://user-images.githubusercontent.com/113222419/210182343-6af8303f-70df-4844-b94a-cf1587c03bff.png">
